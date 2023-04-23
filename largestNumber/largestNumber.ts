@@ -8,4 +8,4 @@ function largest(arr: number[]) {
 
 console.log(largest(numbers));
 
-export { numbers };
+export {};
