@@ -1,1 +1,1 @@
-# 20-js-problem
+### 20 JavaScript problem solution using TypeScript.
