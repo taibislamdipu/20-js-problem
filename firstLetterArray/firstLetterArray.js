@@ -3,9 +3,9 @@
 const words = ["hello", "world", "foo", "bar"];
 let firstLetter = [];
 function firstLetterArray(arr) {
-  for (let i = 0; i < arr.length; i++) {
-    firstLetter.push(arr[i].slice(0, 1));
-  }
-  return firstLetter;
+    for (let i = 0; i < arr.length; i++) {
+        firstLetter.push(arr[i].slice(0, 1));
+    }
+    return firstLetter;
 }
 console.log(firstLetterArray(words));
